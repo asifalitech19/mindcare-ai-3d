@@ -31,4 +31,6 @@ Built using **Bidirectional LSTMs (Long Short-Term Memory)** networks, the model
 4.  **Reaction:** The UI updates instantly—displaying a **"Star Eyes" (🤩)** emoji and shifting the theme to **Purple/Gold**.
 
 ---
-*Developed by [Your Name](https://www.linkedin.com/in/your-profile/) | BS Artificial Intelligence, Iqra University*
+*Developed by [YAsif Ali]
+(https://www.linkedin.com/in/asif-ali-401499295/) | 
+BS Artificial Intelligence, Iqra University*
